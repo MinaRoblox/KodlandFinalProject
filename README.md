@@ -8,12 +8,18 @@ Juego inspirado en cookie clicker, pero con la tematica del cambio climatico
 
 # Tecnologias
 Librerias usadas:
-  - cliengine
+  - cliengine==0.0.7.1
+      Usada para poder lidiar con el input del usuario
   - time
+      Usada para crear un realentimiento falso
   - random
+      Usada para generar valores aleatorios
   - os
+      Usada para limpiar la terminal
   - json
+      Usada para guardar y obtener los archivos de guardado
   - curses
+      Usada para crear menus.
 
 # Gracias
 Gracias a Python y UNIX por hacer esto posible.
